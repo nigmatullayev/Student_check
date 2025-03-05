@@ -1,1 +1,1 @@
-# Student_check
+# student-check-system
